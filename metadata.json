@@ -1,0 +1,8 @@
+{
+  "name": "QUIZVERSE — The Ultimate Quiz Experience",
+  "description": "منصة اختبارات وتحديات تفاعلية بتصميم مستقبلي وتجربة سينمائية فريدة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
